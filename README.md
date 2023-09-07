@@ -1,5 +1,5 @@
 # Pixabay Batch Downloader
-a translator of video titles into several languages with high paying countries.
+a python code to scrape thousands of images from Pixabay with an API key.
 ## Screenshot
 ![Code_L8iAiq8WaK](https://github.com/afzacom/pixabay-batch-downloader/assets/117545787/179ba2f4-66a5-4c41-9aa3-426439300f27)
 
