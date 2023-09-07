@@ -49,7 +49,7 @@ def download_pixabay_images(api_key, query, total_images, base_save_dir):
             print(f"There is an error: {str(e)}")
 
 if __name__ == "__main__":
-    api_key = "39294443-be4777655e474aede8867adb9"  # Replace it with your Pixabay API key
+    api_key = "1234567890"  # Replace it with your Pixabay API key
     query = "night+sky"  # Replace it with your search keyword, use + to replace the space in the keyword
     total_images = 10  # The total number of images you want to download
     base_save_directory = r"C:\Users\Afkar\Pictures"  # Storage base directory, change "Afkar" with your username
